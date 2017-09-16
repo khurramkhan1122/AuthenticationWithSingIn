@@ -1,0 +1,16 @@
+#heading{
+    text-align: center;
+    
+    text-shadow: 2px 3px 4px;
+}
+body{
+    text-align: center;
+    background-color: lightcyan;
+}
+#datas{
+    margin: 2px auto;    
+    border: 2px solid lightgray;
+    max-width: 300px;
+    align-content: center;
+    border-radius: 23px 33px ;
+}
